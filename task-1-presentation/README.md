@@ -1,1 +1,1 @@
-Task 1 files will be uploaded here
+This folder contains the infographic created using Canva for digital literacy awareness.
