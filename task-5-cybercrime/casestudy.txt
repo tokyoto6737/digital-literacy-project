@@ -1,0 +1,9 @@
+UPI / Online Payment Fraud Case Study
+
+UPI fraud is one of the most common cybercrimes affecting students and individuals in India. It typically occurs when a fraudster tricks a person into sharing sensitive information such as OTPs, UPI PINs, or clicking on malicious payment links.
+
+A common scenario involves a victim receiving a call or message from someone pretending to be a bank official or a seller. The fraudster may ask the victim to “receive money” by approving a collect request or entering their UPI PIN. In reality, entering the PIN authorizes money to be sent from the victim’s account.
+
+Students and young adults are often targeted due to their frequent use of online payments and limited awareness of such scams. The consequences include financial loss, emotional stress, and sometimes loss of trust in digital systems.
+
+This case highlights the importance of awareness and careful handling of online financial transactions. Understanding how such frauds work can help individuals avoid becoming victims.
